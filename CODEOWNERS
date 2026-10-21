@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @chzfair
+/src/backend/database.py      @chzfair
+/src/backend/routers/auth.py  @chzfair
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @chzfair
